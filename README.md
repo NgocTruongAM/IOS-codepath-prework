@@ -16,11 +16,13 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![demo](https://github.com/NgocTruongAM/IOS-codepath-prework/assets/116837429/f0759973-4f80-47cc-91a7-d7aeeee69764)
 
 <img src='/Users/ngoctruong/Desktop/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
+GIF created with KAP 
+<!-- Recommended tools:![Uploading demo.gif…]()
+
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
@@ -41,7 +43,10 @@ GIF created with ...
     - Stories and Reels
     
 ### App Idea: MindfulMe - Daily Mindfulness and Self-Care
-    MindfulMe is a comprehensive mindfulness and self-care app designed to help users manage stress, improve mental well-being, and cultivate a healthier lifestyle. The app offers a range of features to guide users through their mindfulness journey:Personalized Mindfulness Plans, Breathing Exercises, Progress Tracking, Nature Sounds and Scenes, Community Support, etc.  
+MindfulMe is a comprehensive mindfulness and self-care app designed to help users manage stress, 
+improve mental well-being, and cultivate a healthier lifestyle. The app offers a range of features 
+to guide users through their mindfulness journey:Personalized Mindfulness Plans, Breathing Exercises, 
+Progress Tracking, Nature Sounds and Scenes, Community Support, etc.  
 
 ## Notes
 
