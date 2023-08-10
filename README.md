@@ -12,20 +12,6 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-![demo](https://github.com/NgocTruongAM/IOS-codepath-prework/assets/116837429/f0759973-4f80-47cc-91a7-d7aeeee69764)
-
-<img src='/Users/ngoctruong/Desktop/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with KAP 
-<!-- Recommended tools:![Uploading demo.gif…]()
-
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
 
@@ -67,3 +53,17 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+![demo](https://github.com/NgocTruongAM/IOS-codepath-prework/assets/116837429/f0759973-4f80-47cc-91a7-d7aeeee69764)
+
+<img src='/Users/ngoctruong/Desktop/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with KAP 
+<!-- Recommended tools:![Uploading demo.gif…]()
+
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
